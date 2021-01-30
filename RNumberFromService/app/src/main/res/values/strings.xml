@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RNumberFromFService</string>
+    <string name="navigation_drawer_open">Open Navigation drawer</string>
+    <string name="navigation_drawer_close">Close Navigation drawer</string>
+    <string name="user_Name">User Name</string>
+    <string name="email">useraccount@gmail.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
